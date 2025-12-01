@@ -1,0 +1,1 @@
+1. pio project init --board esp32dev
