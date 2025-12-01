@@ -1,1 +1,1 @@
-![Arkbird](aRKBIRD1.PNG)
+![Arkbird](arkbird1.png)
