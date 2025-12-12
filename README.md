@@ -1,3 +1,6 @@
+#ArkBird
+### By Alexander Shinkeyev
+
 ![Arkbird](arkbird1.png)
 
 # Current Schematic
