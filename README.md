@@ -3,7 +3,7 @@
 
 ![Arkbird](arkbird1.png)
 
-# Current Schematic
+# Current Schematic(s)
 ## [Transmitter] [V2.1]
 ![Transmitter Schematic](Schematics/Current/transmitteronlynew(v2.1)(1.0)_bb.png)
 
